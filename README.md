@@ -28,8 +28,8 @@ Here are some ideas to get you started:
   <img align="center" alt="MRF-CSS" height="30" width="80" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
   <img align="center" alt="MRF-Python" height="30" width="80" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
   <img align="center" alt="MRF=BootStrap" height="30" width="80" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white">
-  <img align="center" alt="MRF-HTML" height="30" width="80" src="https://img.shields.io/badge/-SHELL-white?style=for-the-badge&logo=html5&logoColor=white">
-  <img align="right" alt="MRF-pic" height="150" style="border-radius:50px;" src="https://preview.redd.it/u0p3zby0qr601.gif?format=mp4&s=26d9bb0796e8772c32026b3048112a91db3f0b46">
+  <img align="center" alt="MRF-HTML" height="30" width="80" src="https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white">
+  <img align="right" alt="MRF-pic" height="150" style="border-radius:50px;" src="https://twitter.com/Neon_Wasteland/status/1300460074553442304/photo/1">
 </div>
   
 ![Snake gif](https://github.com/MateusRodriguesF/MateusRodriguesF/raw/output/github-contribution-grid-snake.svg)
