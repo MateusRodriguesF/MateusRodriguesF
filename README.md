@@ -68,6 +68,8 @@ Sou autodidata em Cybersegurança, Desenvolvimento Web, Machine Learning e atual
 <br>
 <br>
 <br>
+<br>
+<br>
   
 ## Estatísticas do Github 
 <img height="180em" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MateusRodriguesF&layout=compact&langs_count=7&theme=react"/>  <br><br><br><br><br><br><br><br>
