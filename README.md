@@ -8,7 +8,9 @@ Sou autodidata em Cybersegurança, Desenvolvimento Web, Machine Learning e atual
 <br>
 <br>
 <br>
-<br>
+ 
+![Profile views counter](https://komarev.com/ghpvc/?username=MateusRodriguesF&&style=flat-square)
+
 </div>
  
 ## Linguagens e Ferramentas  
