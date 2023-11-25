@@ -2,8 +2,7 @@
 <img align="left" alt="MRF-pic" height="150" style="border-radius:50px;" src="https://pbs.twimg.com/media/EgwlIdzXsAY2tb2?format=jpg&name=900x900">
 </div>
 
-##
-<div style="display: flex; align-items: flex-start; align: center">
+<div>
 Graduado em Análise e Desenvolvimento de Sistemas e Redes de Computadores pela Universidade Cruzeiro do Sul.<br>
 Sou autodidata em Cybersegurança, Desenvolvimento Web, Machine Learning e atualmente me especializando em Python através de plataformas Digitais de Cursos como Udemy entre outras.
 <br>
