@@ -11,6 +11,7 @@ Graduated in Computer Networks and Systems Analysis and Development, I am specia
 With advanced skills in Python and experience in information security, I am delving into the world of Hardware Hacking to expand my knowledge and explore new frontiers in technology.
 <br>
 <br>
+ 
 ![Profile views counter](https://komarev.com/ghpvc/?username=MateusRodriguesF&&style=flat-square)
 
 </div>
