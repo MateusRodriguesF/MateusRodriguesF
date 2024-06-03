@@ -3,8 +3,8 @@
 </div>
 
 <div>
-Graduado em Análise e Desenvolvimento de Sistemas e Redes de Computadores pela Universidade Cruzeiro do Sul.<br>
-Sou autodidata em Cybersegurança, Desenvolvimento Web, Machine Learning e atualmente me especializando em Python através de plataformas Digitais de Cursos como Udemy entre outras.
+Graduado em Redes de Computadores e Análise e Desenvolvimento de Sistemas, estou me especializando em Cibersegurança e Governança de Dados pela PUC Minas.<br> 
+Com habilidades avançadas em Python e experiência em segurança da informação, estou mergulhando no mundo do Hardware Hacking para expandir meu conhecimento e explorar novas fronteiras na tecnologia.
 <br>
 <br>
 <br>
