@@ -3,12 +3,14 @@
 </div>
 
 <div>
-Graduado em Redes de Computadores e Análise e Desenvolvimento de Sistemas, estou me especializando em Cibersegurança e Governança de Dados pela PUC Minas.<br> 
+Graduado em Redes de Computadores e Análise e Desenvolvimento de Sistemas, estou me especializando em Cibersegurança e Governança de Dados pela Universidade PUC Minas.<br> 
 Com habilidades avançadas em Python e experiência em segurança da informação, estou mergulhando no mundo do Hardware Hacking para expandir meu conhecimento e explorar novas fronteiras na tecnologia.
 <br>
 <br>
+Graduated in Computer Networks and Systems Analysis and Development, I am specializing in Cybersecurity and Data Governance at PUC Minas University.
+With advanced skills in Python and experience in information security, I am delving into the world of Hardware Hacking to expand my knowledge and explore new frontiers in technology.
 <br>
- 
+<br>
 ![Profile views counter](https://komarev.com/ghpvc/?username=MateusRodriguesF&&style=flat-square)
 
 </div>
