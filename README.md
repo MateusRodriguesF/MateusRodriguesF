@@ -87,4 +87,4 @@ With advanced skills in Python and experience in information security, I am delv
 ## CONTATO
 <br>
 <br> 
-<a href="https://br.linkedin.com/in/mateus-fonseca-810559210" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+<a href="https://br.linkedin.com/in/mateus-fonseca-6477713b6" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
